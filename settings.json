@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "CheekymatatitoSMP.aternos.me:64396",
+    "port": 64396,
     "version": "",
     "try-creative": false
   },
